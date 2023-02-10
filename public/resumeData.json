@@ -1,0 +1,123 @@
+{
+	"main": {
+		"name": "Nuha",
+		"occupation": "web and software developer",
+		"description": "",
+		"image": "",
+		"bio": "Ambitious and versatile professional from Yemen with experience in client services, administrative work and executive support. Just relocated to the Netherlands and looking for an internship in web development. ",
+		"contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+		"email": "",
+
+		"address": {
+			"city": "Amsterdam"
+		},
+		"website": "https://nuha.tech",
+		"resumedownload": "/Nuha_CV.pdf",
+		"social": [
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/nuha-azazi/",
+				"className": "fa fa-linkedin"
+			},
+
+			{
+				"name": "github",
+				"url": "https://github.com/noshacode",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"education": [
+			{
+				"school": "University?",
+				"degree": "Bachelor's degree in Economics",
+				"description": ""
+			},
+			{
+				"school": "Hack Your Future",
+				"degree": "Intensive code Bootcamp",
+				"graduated": "February",
+				"description": "7  months intensive full-stack programming course teaching web development using modern technologies such as Node.js and React."
+			}
+		],
+		"work": [
+			{
+				"company": "Freelance in tourism services (Kuala Lumpur,Malaysia)",
+				"title": "",
+				"years": " Jan 2018 – Mar 2020",
+				"description": " Freelancing individual services in the tourism industry sector in Malaysia (e.g. selling tickets, helping a partner office in account keeping).",
+				"link": "https://nuhago.wixsite.com/home"
+			},
+			{
+				"company": "Executive Assistant | Commercial Bank (Sana’a,Yemen)",
+				"title": "",
+				"years": "Dec 2013 – Mar 2015",
+				"description": "Executive assistant to the branch manager."
+			}
+		],
+		"skills": [
+			{
+				"name": "Html",
+				"level": "90%"
+			},
+			{
+				"name": "css",
+				"level": "70%"
+			},
+			{
+				"name": "ReactJs",
+				"level": "70%"
+			},
+
+			{
+				"name": "Javascript",
+				"level": "60%"
+			},
+
+			{
+				"name": "Node.js",
+				"level": "60%"
+			},
+
+			{
+				"name": "MongoDB",
+				"level": "60%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "GoTranslate",
+				"category": "Js,html,css",
+				"image": "gotranslate.png",
+				"url": "https://github.com/noshacode/GoTranslate"
+			},
+			{
+				"title": "NoshaTok",
+				"category": "Reactjs",
+				"image": "noshatok.png",
+				"url": "https://github.com/noshacode/NoshaTok"
+			},
+			{
+				"title": "Courier4me",
+				"category": " Nodejs, Reactjs, HTML/CSS",
+				"image": "courier.png",
+				"url": "https://c39-hyf.herokuapp.com/"
+			}
+		]
+	},
+	"testimonials": {
+		"testimonials": [
+			{
+				"text": " ",
+				"user": ""
+			},
+			{
+				"": "",
+				" ": ""
+			}
+		]
+	}
+}
